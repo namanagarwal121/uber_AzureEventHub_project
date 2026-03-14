@@ -1,0 +1,9 @@
+{
+	"name": "adf-azureuberproject-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf5c73c6-66e2-41f8-bacd-b19c1a228412",
+		"tenantId": "3556839d-9937-4347-8268-a77efe9b4022"
+	}
+}
